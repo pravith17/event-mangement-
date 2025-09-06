@@ -1,0 +1,24 @@
+$ cd /workspace/shadcn-ui
+$ pnpm add qrcode qr-scanner @types/qrcode
+
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Progress: resolved 3, reused 0, downloaded 0, added 0
+Progress: resolved 3, reused 1, downloaded 0, added 0
+Progress: resolved 35, reused 32, downloaded 0, added 0
+Progress: resolved 77, reused 74, downloaded 3, added 0
+Progress: resolved 226, reused 223, downloaded 3, added 0
+Progress: resolved 410, reused 402, downloaded 5, added 0
+Progress: resolved 419, reused 402, downloaded 6, added 0
+Progress: resolved 453, reused 407, downloaded 7, added 0
+ WARN  1 deprecated subdependencies found: rollup-plugin-terser@7.0.2
+Progress: resolved 524, reused 427, downloaded 23, added 0
+Packages: +23
++++++++++++++++++++++++
+Progress: resolved 524, reused 427, downloaded 23, added 23, done
+
+dependencies:
++ @types/qrcode 1.5.5
++ qr-scanner 1.4.2
++ qrcode 1.5.4
+
+Done in 13.2s
